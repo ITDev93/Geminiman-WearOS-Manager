@@ -35,7 +35,7 @@ It's a Powerful ADB tool I have developed to make things easier for you to perfo
 And it's all ad-free, no paywalls, and as simple as button press...
  
  ## Where to download Geminiman WearOS Manager...?
- Here you go: [Play Store - GeminiMan WearOS Manager]([https://drive.google.com/open?id=1xrIX5-MkObdiDiOjvoayu65F0oPKmINq](https://play.google.com/store/apps/details?id=com.geminiman.wearosmanager&hl=en))
+ Here you go: [Play Store - GeminiMan WearOS Manager](https://play.google.com/store/apps/details?id=com.geminiman.wearosmanager&hl=en)
  
  ## Oh and if you want to enjoy other things I developed, then visit my website: https://geminiman.net/
  
