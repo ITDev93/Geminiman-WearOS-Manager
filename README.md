@@ -16,7 +16,7 @@ The main purpose of this repo is to put Geminiman WearOS Manager Youtube Videos 
 # What's Geminiman WearOS Manager...?
 Start with this Video:
 
-[![What is Geminiman WearOS Manager?](https://img.youtube.com/vi/wNANot-4PPU/0.jpg)](https://www.youtube.com/watch?v=wNANot-4PPU)
+[![What is Geminiman WearOS Manager?](https://img.youtube.com/vi/bYF1bgOj7Fc/0.jpg)](https://www.youtube.com/watch?v=bYF1bgOj7Fc)
 
 ## Don't want to watch...?
 No problem...
