@@ -1,7 +1,3 @@
-<div align="center">Phone Translations <a title="Crowdin" target="_blank" href="https://crowdin.com/project/geminiman-wearos-manager-phone"><img src="https://badges.crowdin.net/geminiman-wearos-manager-phone/localized.svg"></a>
-Watch Translations <a title="Crowdin" target="_blank" href="https://crowdin.com/project/geminiman-wearos-manager-watch"><img src="https://badges.crowdin.net/geminiman-wearos-manager-watch/localized.svg"></a></div>
-
-
 <div align="center">
 	<br>
 		<img src="imgs/header.svg" width="800" height="400">
