@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help my improve
+title: "[BUG] - [TITLE]"
+labels: ''
+assignees: ''
+
+---
+
 ## 🐛 Bug Summary
 
 Briefly describe the problem.
